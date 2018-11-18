@@ -1,0 +1,26 @@
+<div id="userIdentifier">
+  Welcome {{userData?.displayName}} !!
+ </div>
+
+ <br>
+ <br>
+ <div id="usersOneDriveDocs">
+   <table class="table table-striped table-bordered">
+      <caption><strong>Example:</strong> One Drive files surfaced via Microsoft Graph API.</caption>
+     <thead>
+       <tr>
+         <th>Name</th>
+         <th>Url</th>
+         <th>Action</th>
+       </tr>
+     </thead>
+     <tbody>
+       <tr *ngFor="let doc of docList[0]">
+         <td>{{doc.name}}</td>
+         <td>{{doc.webUrl}}</td>
+         <td><button >Add to WordPress</button></td>
+       </tr>
+     </tbody>
+   </table>
+ </div>
+
