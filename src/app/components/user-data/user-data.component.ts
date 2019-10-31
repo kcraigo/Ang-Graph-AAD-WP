@@ -5,7 +5,7 @@ import { HttpClient} from '@angular/common/http';
 import { HttpServiceHelper } from '../common/HttpServiceHelper';
 import { Subscription } from 'rxjs/Subscription';
 
-import {IDocument} from './document';
+import { IDocument } from './document';
 import { Observable } from 'rxjs';
 import { error } from 'util';
 
