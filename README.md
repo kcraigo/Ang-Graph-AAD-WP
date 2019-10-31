@@ -21,7 +21,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Install the node packages
 
-In the directory containing package.json type ### npm install
+In the directory containing package.json type: npm install
 
 ## Development server
 
