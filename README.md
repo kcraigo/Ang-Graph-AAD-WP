@@ -1,4 +1,7 @@
 # WpBlogManager
+This is the demo for my Youtube video:
+Hi Res. version - Part 2: Authentication: Angular, AzureAD, and MSGraph
+https://youtu.be/3ElsIubtryY
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.0-rc.1.
 
