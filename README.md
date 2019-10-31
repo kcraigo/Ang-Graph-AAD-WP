@@ -11,8 +11,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 [WebDev by the Bay] 
 (https://webdevbythebay.com)
 
-[Tutorial] 
-(https://webdevbythebay.com/wordpressangular-and-active-directory/)
 
 [AzureAD / microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
  
@@ -21,8 +19,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  
  [MSAL angular 4.3+ sample](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/lib/msal-angular/samples/MSALAngularDemoApp)
 
- [Keith Craigo's Medium.com Blog - CoffeeManager](https://medium.com/@kcraigo/authenticate-your-users-to-azure-ad-using-the-microsoft-authentication-library-msal-in-an-angular-834ac463d16a)
+## Install the node packages
 
+In the directory containing package.json type ### npm install
 
 ## Development server
 
